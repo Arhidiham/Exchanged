@@ -1,0 +1,6 @@
+[
+    {"currency": "USD", "rate": 1.5},
+    {"currency": "EUR", "rate": 2.0},
+    {"currency": "AUD", "rate": 1.1},
+    {"currency": "JPY", "rate": 0.03}
+]
